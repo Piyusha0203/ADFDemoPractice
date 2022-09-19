@@ -1,0 +1,9 @@
+{
+	"name": "newvm",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8eb9743c-3b4e-4786-ab18-64e6c5f964b4",
+		"tenantId": "b2a5cfa4-bb51-49c0-a5ab-6926d39e3d34"
+	}
+}
